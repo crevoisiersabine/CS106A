@@ -1,2 +1,1 @@
-CS106A
-======
+This folder contains the programming assignments from Stanford University course CS106A: Programming Methodology in java taught by Mehran Sahami, as completed by myself under the guidance of the handout notes from Mehran's online course and his supporting code for the assignments.
